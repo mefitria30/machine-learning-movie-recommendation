@@ -1,0 +1,3 @@
+Requests==2.32.4
+setuptools==63.2.0
+streamlit==1.45.1
